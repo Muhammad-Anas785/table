@@ -1,0 +1,9 @@
+.screen{
+    pointer-events: none;
+    border-radius: 10px;
+    border: none;
+    height: auto;
+    background-color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
